@@ -1,0 +1,16 @@
+{
+  "name": "jankenpon",
+  "scripts": {
+    "postdeploy": "yarn build"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
